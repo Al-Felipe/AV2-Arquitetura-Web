@@ -7,7 +7,7 @@ permitindo acesso aos endpoints  de acordo com o nível de permissão do usuári
 
 ## Diagrama de Microsserviços
 
-<img width="6000" alt="Diagrama" src="https://github.com/Al-Felipe/AV2-Arquitetura-Web/assets/105646899/2a12435a-7486-487f-806a-982a82bbbfd8">
+<img width="2954" alt="Diagrama" src="https://github.com/Al-Felipe/AV2-Arquitetura-Web/assets/105646899/bd2a9bfe-ed22-4215-b893-59fdd4e0cfc8">
 
 ## Endpoints Disponíveis
 
